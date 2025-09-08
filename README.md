@@ -141,8 +141,8 @@ npm install -g aws-cdk
 Choose your preferred deployment method. The application will be ready in minutes!
 
 
-## Screenshots
-### Admain Account:
+## 📸 Screenshots
+### 🙋‍♀️ Admain Account:
 <img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/ada974b0-d36b-49ed-95c6-a886ec7121dc" />
 <img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/0ff89d58-f935-4bef-ae08-ba947480761e" />
 <img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/f2f9afae-9a5d-4776-98c4-2de137a40866" />
@@ -156,7 +156,7 @@ Choose your preferred deployment method. The application will be ready in minute
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/96aede48-9ecf-4a24-a405-1d516818e9c5" />
 <img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/20dd0a0d-08fd-4008-8f55-ece88742bda1" />
 
-### Student Account:
+### 👨‍🎓 Student Account:
 <img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/c9df8c62-3c91-4744-a384-b7ec30c2f889" />
 <img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/112d8c9a-824c-46c5-b70f-98a76ed8d44a" />
 <img width="1920" height="1080" alt="Screenshot (74)" src="https://github.com/user-attachments/assets/954b8f1d-918d-42c5-b31e-7ecc7f90bc80" />
