@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  smart-campus-portal:
+    build: .
+    ports:
+      - "80:80"
+    environment:
+      - REACT_APP_API_URL=https://4jifheiwy3.execute-api.us-west-2.amazonaws.com/prod
+    restart: unless-stopped
+    container_name: smart-campus-app

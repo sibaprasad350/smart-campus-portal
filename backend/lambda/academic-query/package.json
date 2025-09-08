@@ -1,0 +1,10 @@
+{
+  "name": "academic-query-service",
+  "version": "1.0.0",
+  "description": "Academic Query service for Smart Campus Portal",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1490.0",
+    "uuid": "^9.0.1"
+  }
+}

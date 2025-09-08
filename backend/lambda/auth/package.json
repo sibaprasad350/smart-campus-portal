@@ -1,0 +1,11 @@
+{
+  "name": "auth-service",
+  "version": "1.0.0",
+  "description": "Authentication service for Smart Campus Portal",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.1490.0",
+    "amazon-cognito-identity-js": "^6.3.6",
+    "mysql2": "^3.6.5"
+  }
+}
