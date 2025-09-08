@@ -139,3 +139,28 @@ npm install -g aws-cdk
 ## 🚀 One-Click Deploy
 
 Choose your preferred deployment method. The application will be ready in minutes!
+
+
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/5b66f0a2-7653-48f5-82b6-5ca88e2b3b94" />
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/2267feaa-10d4-49d1-b9dd-67487579bfcd" />
+<img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/5243a2c2-b7fc-42e2-9449-924b7223b814" />
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/ae2faeb6-2cea-44a9-b294-a2edd96c5c50" />
+<img width="1920" height="1080" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/1e946734-9438-4776-b7b0-43cf0313dd4f" />
+<img width="1920" height="1080" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/fa2dd5d5-fb35-4d55-82f4-c98193c2209e" />
+<img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/d9ad3067-f947-41c8-81ae-47078a6fe5e3" />
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/4e4487d1-1962-4cd4-898f-9834d6ff8d91" />
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/4d878139-8811-4903-b2d2-be5c3c5ea8b8" />
+<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/895c2170-a9ee-4048-bc85-769a880a8054" />
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/35ed5fb4-d3d3-4ee9-b8ff-33bdb3336ce8" />
+<img width="1920" height="1080" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/797f51a8-38d2-4359-bf94-fcf9e8b93495" />
+<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/0d680099-bf3f-405f-81b8-000954867f85" />
+<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/d053bcee-da03-4c2f-b662-40a4f72c72b0" />
+<img width="1920" height="1080" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/6f80e066-99c2-49f9-8bb7-5cc9b6c23c24" />
+<img width="1920" height="1080" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/b1e742c5-ca3d-4d3b-86aa-3170d6b11e4f" />
+<img width="1920" height="1080" alt="Screenshot (43)" src="https://github.com/user-attachments/assets/7f521bb2-fe45-428a-8e1c-19eae40a3bed" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/3bab5991-a4b2-4d59-933f-6c1ab9dda973" />
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/0196419e-9219-490c-8790-173eafd39924" />
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/7cceb38c-bd82-4c38-ac31-f5d964f755be" />
+
